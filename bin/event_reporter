@@ -1,0 +1,4 @@
+require 'event_reporter/runner'
+
+runner = EventReporter::Runner.new
+runner.run
