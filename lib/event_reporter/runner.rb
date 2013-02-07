@@ -44,7 +44,6 @@ module EventReporter
         puts "'find' requires an <attribute> and <criteria>"
       else
         @queue = []
-        puts @input[2..-1].join(" ")
         @results = Find.new(@attendees, @input[1], @input[2..-1].join(" ")).matches
         @results.each do |result|
           @queue << result
