@@ -1,0 +1,7 @@
+"load": Load event_attendees.csv by default. Accepts a specified CSV. EXAMPLE "load <filename>". Clears previously loaded data.
+"queue count": Display the number records stored in the queue.
+"queue print": Print records stored in the queue.
+"queue clear": Empty the queue.
+"find": Search CSV columns. EXAMPLE "find <attribute> <criteria>"
+"help": Display available commands.
+"q": Quit the program

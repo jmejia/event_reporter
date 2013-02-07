@@ -1,3 +1,5 @@
+#! /usr/bin/env ruby
+$:.unshift("lib")
 require 'event_reporter/runner'
 
 runner = EventReporter::Runner.new
