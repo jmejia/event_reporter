@@ -22,7 +22,7 @@ module EventReporter
                      :state         => format(source[:state]),
                      :street        => format(source[:street]),
                      :homephone     => PhoneNumber.new(source[:homephone]).clean,
-                     :regdate       => SimpleDate.new(source[:regdate]).clean
+                     :regdate       => format(source[:regdate]),
                    }
       end
     end

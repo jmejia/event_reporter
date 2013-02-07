@@ -1,14 +1,14 @@
 id,regdate,first_name,last_name,email_address,homephone,street,city,state,zipcode
-26,2008-12-02T23:19:00+00:00,Michael,Panek,dntisler@jumpstartlab.com,8013626000,1434 wilson ave.,salt lake city,ut,84105
-841,2009-01-17T14:21:00+00:00,Kate,Cebulski,orazrya1@jumpstartlab.com,8015505000,1033 barbara pl apt 2,salt lake city,ut,84102
-1933,2009-01-21T22:00:00+00:00,Megan,Engel,bgc64@jumpstartlab.com,8015505000,219 elizabeth st.,salt lake city,ut,84102
-1940,2009-01-21T22:03:00+00:00,Kristen,Gilbert,tpollins6@jumpstartlab.com,8015505000,1343 ashwood circle,salt lake city,ut,84121
-1950,2009-01-21T22:07:00+00:00,Student,Myett,wjang@jumpstartlab.com,8015505000,834 e. pond view way,salt lake city,ut,84106
-1956,2009-01-21T22:09:00+00:00,Adrienne,Xx,rrthleen.oflaherty@jumpstartlab.com,8015505000,1213 medical plaza,salt lake city,ut,84121
-1960,2009-01-21T22:11:00+00:00,Eileen,Ludmer,mhulger@jumpstartlab.com,8015505000,723 11th avenue,salt lake city,ut,84103
-1966,2009-01-21T22:13:00+00:00,Alex,Boozel,jyhiang@jumpstartlab.com,8015505000,220 a street,salt lake city,ut,84103
-1972,2009-01-21T22:15:00+00:00,Susan,Berkley,ceebst.4@jumpstartlab.com,8015505000,1033 barbara pl,salt lake city,ut,84102
-1979,2009-01-21T22:17:00+00:00,Emma,Kopkin,sxcoffey@jumpstartlab.com,8015505000,1033 barbara pl,salt lake city,ut,84102
-1988,2009-01-21T22:19:00+00:00,Kate,Armacost,hgle.saud@jumpstartlab.com,8015505000,1033 barbara pl,salt lake city,ut,84102
-4246,2009-02-01T17:14:00+00:00,Lindsey,Woolworth,eoeal@jumpstartlab.com,8013594000,350 south 200 east #406,salt lake city,ut,84111
-4718,2009-02-01T22:00:00+00:00,Rich,Wynn,vkrenzo.serna@jumpstartlab.com,8015505000,2887 wainwright road,salt lake city,ut,84109
+26,12/2/08 23:19,Michael,Panek,dntisler@jumpstartlab.com,8013626000,1434 wilson ave.,salt lake city,ut,84105
+841,1/17/09 14:21,Kate,Cebulski,orazrya1@jumpstartlab.com,8015505000,1033 barbara pl apt 2,salt lake city,ut,84102
+1933,1/21/09 22:00,Megan,Engel,bgc64@jumpstartlab.com,8015505000,219 elizabeth st.,salt lake city,ut,84102
+1940,1/21/09 22:03,Kristen,Gilbert,tpollins6@jumpstartlab.com,8015505000,1343 ashwood circle,salt lake city,ut,84121
+1950,1/21/09 22:07,Student,Myett,wjang@jumpstartlab.com,8015505000,834 e. pond view way,salt lake city,ut,84106
+1956,1/21/09 22:09,Adrienne,Xx,rrthleen.oflaherty@jumpstartlab.com,8015505000,1213 medical plaza,salt lake city,ut,84121
+1960,1/21/09 22:11,Eileen,Ludmer,mhulger@jumpstartlab.com,8015505000,723 11th avenue,salt lake city,ut,84103
+1966,1/21/09 22:13,Alex,Boozel,jyhiang@jumpstartlab.com,8015505000,220 a street,salt lake city,ut,84103
+1972,1/21/09 22:15,Susan,Berkley,ceebst.4@jumpstartlab.com,8015505000,1033 barbara pl,salt lake city,ut,84102
+1979,1/21/09 22:17,Emma,Kopkin,sxcoffey@jumpstartlab.com,8015505000,1033 barbara pl,salt lake city,ut,84102
+1988,1/21/09 22:19,Kate,Armacost,hgle.saud@jumpstartlab.com,8015505000,1033 barbara pl,salt lake city,ut,84102
+4246,2/1/09 17:14,Lindsey,Woolworth,eoeal@jumpstartlab.com,8013594000,350 south 200 east #406,salt lake city,ut,84111
+4718,2/1/09 22:00,Rich,Wynn,vkrenzo.serna@jumpstartlab.com,8015505000,2887 wainwright road,salt lake city,ut,84109
